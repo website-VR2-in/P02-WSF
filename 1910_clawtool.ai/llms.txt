@@ -1,0 +1,26 @@
+# ClawTool AI — clawtool.ai
+
+**ClawTool AI** is the single-product tool of the Claw AI family: paste any email thread, meeting transcript or document, and it claws out the action items — task, owner, deadline, priority — then syncs them to Todoist, Notion, Slack or email.
+
+## Product
+- Claw anything: email, transcripts, PDFs, notes, Slack exports
+- Smart extraction with owner, deadline and confidence per item
+- Priority scoring (deadline, who's waiting, frequency)
+- Sync: Todoist, Notion, Slack, email digest, Markdown copy
+- Zero-retention by default, EU processing, never trains shared models
+- Team claws: shared threads, per-owner views
+
+## Pricing (EUR)
+| Plan | Price | Includes |
+|---|---|---|
+| Free | €0 | 10 claws/day, 50 pages each, email digest, zero-retention |
+| Pro | €19/mo | unlimited claws & length, all syncs, 90-day opt-in history, priority processing |
+| Team | €49/mo | 5 seats, shared threads, admin controls + audit log, Google SSO |
+
+## Contact
+- Email: hello@clawtool.ai
+- Web: https://clawtool.ai/ (English and French)
+
+## Data & privacy
+- Static marketing site: no visitor data stored; contact via mailto.
+- Product: EU processing, zero-retention by default, 90-day history opt-in (Pro), audit log (Team), no shared-model training.

@@ -1,0 +1,20 @@
+# Go HRM
+
+> Go HRM est la suite RH moderne : effectifs, temps & congés, paie, recrutement et performance réunis dans un seul outil simple, hébergé en Europe et conforme RGPD. Déploiement en jours, pas en mois.
+
+## Pages principales
+- [Accueil (FR)](https://go-hrm.com/fr/) : présentation, modules, RGPD, CTA essai gratuit
+- [Fonctionnalités (FR)](https://go-hrm.com/fr/fonctionnalites.html) : détail des 6 modules
+- [Tarifs (FR)](https://go-hrm.com/fr/tarifs.html) : Starter 29 €, Growth 59 €, Scale sur devis (indicatif, HT)
+- [À propos (FR)](https://go-hrm.com/fr/a-propos.html)
+- [Contact (FR)](https://go-hrm.com/fr/contact.html) : hello@go-hrm.com
+- [Privacy (EN)](https://go-hrm.com/en/privacy.html)
+
+## Contact
+- E-mail : hello@go-hrm.com (à confirmer avant mise en ligne)
+- Réponse : sous 24 h ouvrées
+
+## Notes
+- Site marketing statique (FR + EN), aucun compte requis pour le lire.
+- Prix affichés sont indicatifs (à valider avant mise en ligne).
+- Dernière mise à jour : 2026-11-09

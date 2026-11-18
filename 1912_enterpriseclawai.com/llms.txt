@@ -1,0 +1,27 @@
+# EnterpriseClaw AI — enterpriseclawai.com
+
+**EnterpriseClaw AI** is the enterprise tier of the Claw AI family: the same product suite (sales, security, services, tools, deployment) with the controls a regulated organization needs — EU-only hosting, SSO/SAML, exportable audit logs, custom models, org-wide governance and a 99.9% SLA.
+
+## Product
+- EU-only hosting, per-tenant isolation, no cross-border data moves
+- SSO (Google/SAML), per-product roles, one-click offboarding
+- Immutable audit logs, SIEM export, retention 90 days – 7 years
+- Custom / dedicated models; never used to train shared models
+- Org-wide spend caps, model allow-lists, kill switches
+- 99.9% SLA (Standard+), named engineer, incident reports in 24 h
+- Private-cloud / on-prem option (Enterprise plan)
+
+## Plans (EUR, PROPOSED)
+| Plan | Price | Includes |
+|---|---|---|
+| Starter | €490/mo | 1 team, 5 agents, Google SSO, 90-day audit, business-hours support |
+| Standard | €1,490/mo | 5 teams, 25 agents, SAML, 13-month audit + SIEM, governance, 99.9% SLA |
+| Enterprise | Custom | unlimited, custom/dedicated models, private cloud/on-prem, custom SLA |
+
+## Contact
+- Email: hello@enterpriseclawai.com
+- Web: https://enterpriseclawai.com/ (English and French)
+
+## Data & privacy
+- Static marketing site: no visitor data stored; contact via mailto.
+- Platform: EU data centers, per-tenant isolation, immutable audit logs, customer retention settings, customer-owned models, full export in open formats within 30 days of contract end.

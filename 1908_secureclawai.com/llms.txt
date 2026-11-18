@@ -1,0 +1,32 @@
+# SecureClaw AI — secureclawai.com
+
+**SecureClaw AI** is an AI security copilot for companies without a dedicated security team: 24/7 monitoring of endpoints, email, identity and cloud; plain-language threat explanation; and safe, approval-mode automated remediation.
+
+## What it does
+- **24/7 AI monitoring** — endpoints, email, identity, cloud, correlated in real time.
+- **Plain-language alerts** — "what happened, what's the risk, what we did" instead of SIEM dumps.
+- **Safe auto-remediation** — block / isolate / revoke / reset, suggest mode by default, per-action auto-fix whitelist, full undo log.
+- **Phishing & email defense** — AI inbox analysis, click-to-quarantine, spoofing & impersonation detection.
+- **Compliance auto-evidence** — NIS2, ISO 27001, GDPR: access reviews, incident log, patch state, export on demand.
+- **Human escalation in one tap** — 2-minute handoff with a named human analyst when the AI isn't sure.
+
+## Onboarding (3 steps)
+1. Connect Google Workspace / M365, MDM or light endpoint sensor, one cloud account — read-only first.
+2. Get a plain-language risk map within 24 h (the free 30-minute risk scan).
+3. Choose remediation mode (suggest / approve / auto-for-low-risk) and start; alerts via email, Slack or WhatsApp.
+
+## Pricing (EUR, per monitored entity, no commitment)
+| Plan | Price | Includes |
+|---|---|---|
+| Starter | €149/mo | ≤25 users + 10 endpoints, email+endpoint monitoring, suggest-only remediation |
+| Business | €399/mo | ≤100 users + 100 endpoints, +identity & cloud, approval-mode auto-fix, NIS2/ISO evidence |
+| Enterprise | Custom | Unlimited, auto policies + SIEM export, dedicated EU infra, SOC 2 + DPA, named analyst |
+
+## Contact
+- Email: hello@secureclawai.com
+- Web: https://secureclawai.com/ (English and French)
+- Free 30-minute risk scan on request.
+
+## Data & privacy
+- Static marketing site: no visitor data stored; contact via mailto.
+- Product: EU data residency, per-tenant isolation, event metadata + email content for phishing classification only, 12-month hot / 24-month cold retention, DPA on all plans.

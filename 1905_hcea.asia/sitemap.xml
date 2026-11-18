@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.hcea.asia/fr/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/en/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/fr/services.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/en/services.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/fr/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/en/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/fr/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+  <url>
+    <loc>https://www.hcea.asia/en/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hcea.asia/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hcea.asia/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hcea.asia/"/>
+  </url>
+</urlset>

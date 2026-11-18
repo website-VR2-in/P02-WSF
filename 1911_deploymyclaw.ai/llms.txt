@@ -1,0 +1,26 @@
+# DeployMyClaw — deploymyclaw.ai
+
+**DeployMyClaw** is the deployment platform of the Claw AI family: connect your AI agent (code, ClawTool export, or any OpenAI-compatible endpoint) and it goes live in the EU with REST/WhatsApp/Slack endpoints, built-in monitoring, versioning/rollback and per-run cost control.
+
+## Product
+- One-click deploy — live endpoint in seconds
+- Endpoints: REST, WhatsApp, Slack, webhooks (per agent)
+- Monitoring: latency, errors, tokens, spend; alerts
+- Versions, A/B splits, one-click rollback
+- Cost control: per-run meters, daily spend caps, model fallback
+- EU hosting, per-tenant isolation, no cross-border data moves by default
+
+## Pricing (EUR)
+| Plan | Price | Includes |
+|---|---|---|
+| Hobby | €0 | 1 agent, 1k runs/mo, REST + email, 7-day history |
+| Pro | €29/mo | 5 agents, 20k runs/mo, all endpoints, 90-day history + alerts, A/B + rollback, spend caps |
+| Scale | €99/mo | unlimited agents, 100k runs/mo, team + SSO, 99.9% SLA |
+
+## Contact
+- Email: hello@deploymyclaw.ai
+- Web: https://deploymyclaw.ai/ (English and French)
+
+## Data & privacy
+- Static marketing site: no visitor data stored; contact via mailto.
+- Platform: EU data centers, per-tenant isolation, log retention per tenant setting (7/90/off), credentials in the customer's vault, no shared-model training, export at any time.

@@ -1,0 +1,9 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/fr/offre", "destination": "/fr/offre.html" },
+    { "source": "/fr/contact-fr", "destination": "/fr/contact.html" },
+    { "source": "/en/offre", "destination": "/en/offer.html" },
+    { "source": "/en/contact", "destination": "/en/contact.html" }
+  ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.energy-stock.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.energy-stock.com/"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.energy-stock.com/"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/fr/offre.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/offre.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/offer.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/en/offer.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/offre.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/offer.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/contact.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/contact.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/fr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/privacy.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.energy-stock.com/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.energy-stock.com/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.energy-stock.com/en/privacy.html"/>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+</urlset>

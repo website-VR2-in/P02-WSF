@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://clawexperts.ai/en/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clawexperts.ai/"/>
+  </url>
+  <url>
+    <loc>https://clawexperts.ai/fr/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clawexperts.ai/"/>
+  </url>
+  <url>
+    <loc>https://clawexperts.ai/en/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/contact.html"/>
+  </url>
+  <url>
+    <loc>https://clawexperts.ai/fr/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/contact.html"/>
+  </url>
+  <url>
+    <loc>https://clawexperts.ai/en/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://clawexperts.ai/fr/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clawexperts.ai/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clawexperts.ai/fr/privacy.html"/>
+  </url>
+</urlset>

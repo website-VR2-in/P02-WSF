@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://go-my.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/fr/fonctionnalites.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/fonctionnalites.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/fonctionnalites.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/fr/tarifs.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/tarifs.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/tarifs.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/fr/a-propos.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/a-propos.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/contact.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/fr/confidentialite.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/confidentialite.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/features.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/fonctionnalites.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/features.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/fonctionnalites.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/tarifs.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/tarifs.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/a-propos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/a-propos.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/contact.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://go-my.com/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://go-my.com/fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://go-my.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://go-my.com/fr/confidentialite.html"/>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+</urlset>

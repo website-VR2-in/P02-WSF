@@ -1,0 +1,30 @@
+# Claw Experts AI — clawexperts.ai
+
+**Claw Experts AI** is the done-for-you AI services arm of the Claw AI family: we audit where AI pays off in a business, build the agents, train the team, and scale what works.
+
+## Services
+- **AI audit & roadmap** — 1–2 week workflow/data mapping, prioritized build order with honest ROI estimates.
+- **Done-for-you agents** — sales prospecting, support triage, ops automation; designed, built, tested and integrated into the client's tools.
+- **Team training** — hands-on workshops; measured by adoption, not attendance.
+- **Integrations** — CRM, email, WhatsApp, Slack, spreadsheets, ERP wiring.
+- **Optimization & scaling** — monthly reviews, re-tuned prompts/guardrails/costs.
+- **AI support retainer** — on-call agent ops, new-use-case pipeline, plain-language monthly report.
+
+## Process
+Audit (1–2 wks) → Build (2–6 wks) → Train (1 wk + ongoing) → Scale (monthly).
+
+## Packages (EUR)
+| Package | Price | Includes |
+|---|---|---|
+| AI Audit | €1,900 | workflow/data mapping, prioritized roadmap + ROI, 90-min presentation |
+| Agent Build | from €4,900 | one agent end-to-end, integrations, training, 2 weeks supervised live run |
+| AI Partner | from €2,900/mo | monthly optimization & scaling, use-case pipeline, priority response |
+
+## Contact
+- Email: hello@clawexperts.ai
+- Web: https://clawexperts.ai/ (English and French)
+- Free 30-minute AI readiness call on request.
+
+## Data & privacy
+- Static marketing site: no visitor data stored; contact via mailto.
+- Engagements: EU infrastructure where possible, per-client isolation, signed DPA, full data-flow map in the audit, client owns all deliverables.

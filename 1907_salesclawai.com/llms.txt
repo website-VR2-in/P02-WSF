@@ -1,0 +1,21 @@
+# SalesClaw AI
+
+SalesClaw AI is an AI sales agent for B2B teams: it researches prospects from your ICP, writes personalized outreach in your voice, and follows up 24/7 until meetings land in your calendar.
+
+## What it does
+- **Prospect research**: ICP → enriched company + decision-maker profiles with intent scoring.
+- **Outreach in your voice**: personalized first lines from real signals (hiring, funding, news, tech stack).
+- **24/7 follow-up**: multi-touch sequences that adapt to each reply (bump / pivot / book), time-zone aware, spam-safe.
+- **Meeting-first routing**: replies classified, interested ones routed to your calendar with full context.
+- **Attribution**: revenue by campaign, sequence, persona; CRM-friendly exports (HubSpot, Pipedrive, Salesforce).
+- **Compliance**: GDPR-first, EU data residency, opt-out in one click, sender-reputation guardrails.
+
+## Pricing
+- Solo: 99 EUR/mo (1 seat, 500 prospects/mo)
+- Team: 299 EUR/mo (5 seats, 2,500 prospects/mo, CRM sync)
+- Scale: custom (unlimited, dedicated EU infra, SOC 2 + DPA)
+
+## Contact
+- Website: https://salesclawai.com/ (English: /en/ · French: /fr/)
+- Email: hello@salesclawai.com
+- Free 14-day pilot, no credit card required.

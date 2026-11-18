@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Go HRM — redirection…</title>
+  <meta name="robots" content="noindex, follow">
+  <meta http-equiv="refresh" content="0; url=/fr/">
+  <script>
+    (function () {
+      var nav = (navigator.language || "").toLowerCase();
+      var loc = (window.location.pathname || "").toLowerCase();
+      if (loc.startsWith("/en")) window.location.replace("/en/");
+      else if (nav.indexOf("en") === 0) window.location.replace("/en/");
+      else window.location.replace("/fr/");
+    })();
+  </script>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #101b2d; color: #fff; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+    .wrap { text-align: center; }
+    .dot { width: 54px; height: 54px; border-radius: 14px; background: #0d9488; margin: 0 auto 18px; }
+    h1 { font-size: 22px; margin: 0 0 10px; }
+    p { color: #93a2b8; font-size: 15px; }
+    a { color: #0d9488; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="dot"></div>
+    <h1>Go HRM</h1>
+    <p>Redirection en cours… / Redirecting…</p>
+    <p><a href="/fr/">Accueil FR</a> · <a href="/en/">Home EN</a></p>
+  </div>
+</body>
+</html>

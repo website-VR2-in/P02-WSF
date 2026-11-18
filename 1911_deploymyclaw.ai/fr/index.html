@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeployMyClaw — déployez vos agents IA en production en un clic</title>
+  <meta name="description"
+    content="DeployMyClaw héberge vos agents IA en UE : déploiement en un clic, endpoints REST/WhatsApp/Slack, monitoring, versioning et contrôle des coûts. Gratuit pour commencer.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://deploymyclaw.ai/fr/">
+  <link rel="alternate" hreflang="en" href="https://deploymyclaw.ai/en/">
+  <link rel="alternate" hreflang="fr" href="https://deploymyclaw.ai/fr/">
+  <link rel="alternate" hreflang="x-default" href="https://deploymyclaw.ai/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="DeployMyClaw">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="DeployMyClaw — déployez vos agents IA en production en un clic">
+  <meta property="og:description"
+    content="Votre agent, en ligne en quelques minutes : endpoints, monitoring, versions, coûts. Hébergé en UE.">
+  <meta property="og:url" content="https://deploymyclaw.ai/fr/">
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230d1117'/%3E%3Cpath d='M8 12l6 4-6 4z' fill='%2358a6ff'/%3E%3Cpath d='M16 22h8' stroke='%233fb950' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+  <script id="ga4-snippet" async data-src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });</script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://deploymyclaw.ai/#org",
+        "name": "DeployMyClaw",
+        "url": "https://deploymyclaw.ai/",
+        "email": "hello@deploymyclaw.ai",
+        "description": "Plateforme d'hébergement UE qui déploie vos agents IA en production en un clic : endpoints, monitoring, versioning et contrôle des coûts."
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "DeployMyClaw",
+        "applicationCategory": "DeveloperApplication",
+        "operatingSystem": "Web",
+        "offers": { "@type": "Offer", "priceCurrency": "EUR", "price": "0" },
+        "description": "Déploiement en un clic d'agents IA avec endpoints, monitoring, versioning et contrôle des coûts."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://deploymyclaw.ai/#website",
+        "url": "https://deploymyclaw.ai/",
+        "name": "DeployMyClaw",
+        "inLanguage": ["en", "fr"],
+        "publisher": { "@id": "https://deploymyclaw.ai/#org" }
+      }
+    ]
+  }
+  </script>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="./" aria-label="DeployMyClaw — accueil">
+        <svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true">
+          <rect width="32" height="32" rx="7" fill="#151d29" />
+          <path d="M8 12l6 4-6 4z" fill="#58a6ff" />
+          <path d="M16 22h8" stroke="#3fb950" stroke-width="2.4" stroke-linecap="round" />
+        </svg>
+        <span>DeployMyClaw<span class="brand-sub">agent → prod, un clic</span></span>
+      </a>
+      <nav aria-label="Navigation principale">
+        <ul class="nav-links">
+          <li><a href="#features">Fonctions</a></li>
+          <li><a href="#how">Comment ça marche</a></li>
+          <li><a href="#pricing">Tarifs</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><span class="lang-switch" aria-label="Langue"><a href="../fr/" class="active">FR</a><a
+                href="../en/">EN</a></span></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container">
+        <p class="status-pill"><span class="dot" aria-hidden="true"></span> tous les systèmes opérationnels</p>
+        <h1 id="hero-title">Déployez vos agents IA en production en <span class="accent">un clic</span></h1>
+        <p class="lead">DeployMyClaw héberge vos agents en UE et vous remet un endpoint en ligne — REST, WhatsApp ou
+          Slack — avec monitoring, versioning et compteur de coûts intégrés. Aucune infrastructure à surveiller.</p>
+        <div class="hero-cta">
+          <a class="btn" href="#pricing">Déployer gratuitement — 1 agent, 1k runs</a>
+          <a class="btn btn-ghost" href="#how">Comment ça marche</a>
+        </div>
+        <p class="hero-note"><b>Hébergement UE</b> · facturation au run, visible · rollback en un clic</p>
+        <div class="term" aria-hidden="true">
+          <div class="term-bar"><span></span><span></span><span></span><em>déploiement — claw@eu-west</em></div>
+          <div class="term-body">
+            <p class="prompt c">dmc deploy agent-support --endpoint rest,whatsapp</p>
+            <p>compilation… terminée en 4,2 s</p>
+            <p class="ok">✓ en ligne: https://api.deploymyclaw.ai/v1/agents/agent-support</p>
+            <p class="bl">→ monitoring, versions &amp; compteur de coûts activés</p>
+            <p class="prompt c"># première requête en 11 secondes</p>
+          </div>
+        </div>
+        <div class="hero-glow" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <section class="section" id="features" aria-labelledby="feat-title">
+      <div class="container">
+        <h2 id="feat-title">Tout ce qui existe entre « ça marche dans le notebook » et « c'est en ligne »</h2>
+        <p class="section-lead">La moitié ingrate de l'IA — celle qui casse à 3 h du matin — est prise en charge.</p>
+        <div class="grid-3">
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🚀</div>
+            <h3>Déploiement en un clic</h3>
+            <p>Connectez votre agent (code, export ClawTool, ou n'importe quel endpoint compatible OpenAI) et il est en
+              ligne en quelques secondes, avec une URL que votre équipe peut réellement appeler.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🔌</div>
+            <h3>Endpoints en ligne</h3>
+            <p>REST, WhatsApp, Slack et webhooks par agent. Le même cerveau, sur toutes les surfaces — pas de code de
+              collage entre votre agent et les canaux de vos clients.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">📊</div>
+            <h3>Monitoring intégré</h3>
+            <p>Latence, taux d'erreur, tokens et dépenses par agent et par jour. Alertes avant que vos clients ne
+              remarquent — et un tableau de bord que votre DAF peut lire.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">⏪</div>
+            <h3>Versions &amp; rollback</h3>
+            <p>Chaque déploiement est une version. Vous cassez quelque chose à 3 h du matin ? Revenez à la dernière
+              version saine en un clic. Tests A/B entre versions inclus.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">💶</div>
+            <h3>Contrôle des coûts</h3>
+            <p>Compteurs par run, plafonds de dépenses quotidiens et repli sur modèle. Un agent qui déraile est limité,
+              pas une facture surprise.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🇪🇺</div>
+            <h3>Hébergement UE</h3>
+            <p>Les agents tournent dans des data centers UE, isolement par tenant, aucun transfert transfrontalier par
+              défaut. Votre dossier conformité fait une section de moins.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="how" aria-labelledby="how-title">
+      <div class="container">
+        <h2 id="how-title">Trois étapes. Aucune plateforme à apprendre.</h2>
+        <p class="section-lead">Vous construisez l'agent. On le fait tourner.</p>
+        <ol class="steps">
+          <li>
+            <div>
+              <h4>Connecter</h4>
+              <p>Pointez DeployMyClaw vers votre agent : upload de code, export ClawTool, ou n'importe quel endpoint
+                compatible OpenAI. Les identifiants restent dans votre coffre, pas dans le nôtre.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h4>Déployer</h4>
+              <p>Un clic. Vous recevez un endpoint en ligne avec authentification, une page de monitoring et une
+                étiquette de version. La première requête arrive généralement en une minute.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h4>Le voir tourner</h4>
+              <p>Latence, erreurs et dépenses s'écoulent dans le tableau de bord. Fixez un plafond de dépenses, une
+                alerte et une cible de rollback — puis retournez construire.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" id="pricing" aria-labelledby="price-title">
+      <div class="container">
+        <h2 id="price-title">Payez les runs, pas la plateforme</h2>
+        <p class="section-lead">La redevance de plateforme est fixe. L'usage est compté et plafonné par vous.</p>
+        <div class="price-grid">
+          <article class="price-card">
+            <h3>Hobby</h3>
+            <div class="price">0 €</div>
+            <ul>
+              <li>1 agent, 1k runs/mois</li>
+              <li>Endpoints REST + email</li>
+              <li>Historique monitoring 7 jours</li>
+              <li>Support communautaire</li>
+            </ul>
+            <a class="btn btn-ghost" href="contact.html">Commencer gratuitement</a>
+          </article>
+          <article class="price-card featured">
+            <h3>Pro</h3>
+            <div class="price">29 €<small>/mois</small></div>
+            <ul>
+              <li>5 agents, 20k runs/mois</li>
+              <li>Tous les endpoints dont WhatsApp &amp; Slack</li>
+              <li>Monitoring 90 jours, alertes</li>
+              <li>Versions, A/B, rollback</li>
+              <li>Plafonds de dépenses &amp; repli sur modèle</li>
+            </ul>
+            <a class="btn" href="contact.html">Passer Pro</a>
+          </article>
+          <article class="price-card">
+            <h3>Scale</h3>
+            <div class="price">99 €<small>/mois</small></div>
+            <ul>
+              <li>Agents illimités, 100k runs/mois</li>
+              <li>Places d'équipe &amp; SSO</li>
+              <li>SLA 99,9 %, support prioritaire</li>
+              <li>Gouvernance des dépenses sur mesure</li>
+            </ul>
+            <a class="btn btn-ghost" href="contact.html">Nous écrire</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="faq-title">
+      <div class="container">
+        <h2 id="faq-title">FAQ</h2>
+        <div class="faq" style="margin-top:36px;">
+          <details>
+            <summary>Qu'est-ce qu'un « run » ?</summary>
+            <p>Un run est une requête à votre agent qui renvoie une réponse. Le streaming, les reprises et les appels
+              internes au modèle ne multiplient pas votre compteur — vous payez ce que vos utilisateurs reçoivent.</p>
+          </details>
+          <details>
+            <summary>Qui héberge le modèle ?</summary>
+            <p>Vous apportez le modèle (n'importe quel endpoint compatible OpenAI, ou le vôtre). DeployMyClaw héberge le
+              runtime de l'agent — ce qui reçoit les requêtes, appelle votre modèle et répond. Les dépenses modèle
+              restent sur la facture de votre fournisseur, sauf si vous le connectez via nous.</p>
+          </details>
+          <details>
+            <summary>Où sont mes données ?</summary>
+            <p>Dans des data centers UE, isolées par tenant. Les journaux de requêtes/réponses suivent votre paramètre
+              de rétention (7/90 jours ou désactivé). Nous n'utilisons jamais vos charges utiles pour entraîner des
+              modèles partagés.</p>
+          </details>
+          <details>
+            <summary>Puis-je partir plus tard ?</summary>
+            <p>Oui. Votre code et votre configuration d'agent s'exportent à tout moment, et les endpoints suivent la
+              forme compatible OpenAI, donc changer d'hôte est un changement d'URL de base.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="cta-title">
+      <div class="container" style="text-align:center;">
+        <div class="quote">
+          <p>« La démo est la partie facile. La partie difficile, ce sont 40 000 requêtes par jour, et une facture qui
+            s'explique d'elle-même. C'est ce travail que nous avons pris. »</p>
+          <footer>DeployMyClaw — note fondatrice</footer>
+        </div>
+        <h2 id="cta-title" style="margin-top:44px;">Déployez votre premier agent gratuitement</h2>
+        <p class="section-lead">1 agent, 1k runs par mois, sans carte.</p>
+        <div class="hero-cta" style="justify-content:center; margin-top:26px;">
+          <a class="btn" href="#pricing">Commencer gratuitement</a>
+          <a class="btn btn-ghost" href="mailto:hello@deploymyclaw.ai">hello@deploymyclaw.ai</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-brand">DeployMyClaw</p>
+        <p class="footer-tag">agent → prod, un clic.</p>
+      </div>
+      <nav aria-label="Pied de page">
+        <a href="./">Accueil</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Confidentialité</a>
+        <a href="../en/">English</a>
+      </nav>
+      <p class="footer-copy">© <span data-year>2026</span> DeployMyClaw. Tous droits réservés. · <a
+          href="mailto:hello@deploymyclaw.ai">hello@deploymyclaw.ai</a></p>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Consentement aux cookies">
+    <p>Ce site utilise Google Analytics (IP anonymisée) uniquement si vous acceptez. <a href="privacy.html">Politique de
+        confidentialité</a>.</p>
+    <div class="row">
+      <button class="btn" type="button" data-consent="accepted">Accepter</button>
+      <button class="btn btn-decline" type="button" data-consent="declined">Refuser</button>
+    </div>
+  </div>
+
+  <script src="../js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+# OS / editor noise only — no source or docs excluded
+.DS_Store
+Thumbs.db
+*.swp
+*~

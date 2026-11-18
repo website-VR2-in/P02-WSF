@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeployMyClaw — ship AI agents to production in one click</title>
+  <meta name="description"
+    content="DeployMyClaw hosts your AI agents in the EU: one-click deploy, live REST/WhatsApp/Slack endpoints, built-in monitoring, versioning and cost control. Free tier.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://deploymyclaw.ai/en/">
+  <link rel="alternate" hreflang="en" href="https://deploymyclaw.ai/en/">
+  <link rel="alternate" hreflang="fr" href="https://deploymyclaw.ai/fr/">
+  <link rel="alternate" hreflang="x-default" href="https://deploymyclaw.ai/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="DeployMyClaw">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:title" content="DeployMyClaw — ship AI agents to production in one click">
+  <meta property="og:description"
+    content="Your agent, live in minutes: endpoints, monitoring, versions, costs. Hosted in the EU.">
+  <meta property="og:url" content="https://deploymyclaw.ai/en/">
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230d1117'/%3E%3Cpath d='M8 12l6 4-6 4z' fill='%2358a6ff'/%3E%3Cpath d='M16 22h8' stroke='%233fb950' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+  <script id="ga4-snippet" async data-src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });</script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://deploymyclaw.ai/#org",
+        "name": "DeployMyClaw",
+        "url": "https://deploymyclaw.ai/",
+        "email": "hello@deploymyclaw.ai",
+        "description": "EU hosting platform that deploys AI agents to production with one click: endpoints, monitoring, versioning and cost control."
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "DeployMyClaw",
+        "applicationCategory": "DeveloperApplication",
+        "operatingSystem": "Web",
+        "offers": { "@type": "Offer", "priceCurrency": "EUR", "price": "0" },
+        "description": "One-click deployment of AI agents with live endpoints, monitoring, versioning and cost control."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://deploymyclaw.ai/#website",
+        "url": "https://deploymyclaw.ai/",
+        "name": "DeployMyClaw",
+        "inLanguage": ["en", "fr"],
+        "publisher": { "@id": "https://deploymyclaw.ai/#org" }
+      }
+    ]
+  }
+  </script>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="./" aria-label="DeployMyClaw — home">
+        <svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true">
+          <rect width="32" height="32" rx="7" fill="#151d29" />
+          <path d="M8 12l6 4-6 4z" fill="#58a6ff" />
+          <path d="M16 22h8" stroke="#3fb950" stroke-width="2.4" stroke-linecap="round" />
+        </svg>
+        <span>DeployMyClaw<span class="brand-sub">agent → prod, one click</span></span>
+      </a>
+      <nav aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="#features">Features</a></li>
+          <li><a href="#how">How it works</a></li>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><span class="lang-switch" aria-label="Language"><a href="../fr/">FR</a><a href="../en/"
+                class="active">EN</a></span></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container">
+        <p class="status-pill"><span class="dot" aria-hidden="true"></span> all systems operational</p>
+        <h1 id="hero-title">Ship AI agents to production in <span class="accent">one click</span></h1>
+        <p class="lead">DeployMyClaw hosts your agents in the EU and hands you a live endpoint — REST, WhatsApp or Slack
+          — with monitoring, versioning and a cost meter built in. No infra to babysit.</p>
+        <div class="hero-cta">
+          <a class="btn" href="#pricing">Deploy free — 1 agent, 1k runs</a>
+          <a class="btn btn-ghost" href="#how">How it works</a>
+        </div>
+        <p class="hero-note"><b>EU hosting</b> · per-run pricing you can see · rollback in one click</p>
+        <div class="term" aria-hidden="true">
+          <div class="term-bar"><span></span><span></span><span></span><em>deploy — claw@eu-west</em></div>
+          <div class="term-body">
+            <p class="prompt c">dmc deploy support-agent --endpoint rest,whatsapp</p>
+            <p>building… done in 4.2s</p>
+            <p class="ok">✓ live: https://api.deploymyclaw.ai/v1/agents/support-agent</p>
+            <p class="bl">→ monitoring, versions &amp; cost meter enabled</p>
+            <p class="prompt c"># first request in 11 seconds</p>
+          </div>
+        </div>
+        <div class="hero-glow" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <section class="section" id="features" aria-labelledby="feat-title">
+      <div class="container">
+        <h2 id="feat-title">Everything between "it works in the notebook" and "it's running"</h2>
+        <p class="section-lead">The unglamorous half of AI — the part that breaks at 3 a.m. — is handled.</p>
+        <div class="grid-3">
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🚀</div>
+            <h3>One-click deploy</h3>
+            <p>Connect your agent (code, ClawTool export, or any OpenAI-compatible endpoint) and it's live in seconds
+              with a URL your team can actually call.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🔌</div>
+            <h3>Live endpoints</h3>
+            <p>REST, WhatsApp, Slack and webhooks per agent. Same brain, every surface — no glue code between your agent
+              and the channels your customers use.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">📊</div>
+            <h3>Built-in monitoring</h3>
+            <p>Latency, error rate, tokens and spend per agent, per day. Alerts before your customers notice — and a
+              dashboard your CFO can read.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">⏪</div>
+            <h3>Versions &amp; rollback</h3>
+            <p>Every deploy is a version. Break something at 3 a.m.? Roll back to the last good one in one click. A/B
+              splits across versions included.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">💶</div>
+            <h3>Cost control</h3>
+            <p>Per-run meters, daily spend caps and model fallback. An agent that runs away gets throttled, not a
+              surprise invoice.</p>
+          </article>
+          <article class="card">
+            <div class="card-icon" aria-hidden="true">🇪🇺</div>
+            <h3>EU hosting</h3>
+            <p>Agents run in EU data centers, per-tenant isolation, no cross-border data moves by default. Your
+              compliance deck gets a shorter section.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="how" aria-labelledby="how-title">
+      <div class="container">
+        <h2 id="how-title">Three steps. No platform to learn.</h2>
+        <p class="section-lead">You build the agent. We run it.</p>
+        <ol class="steps">
+          <li>
+            <div>
+              <h4>Connect</h4>
+              <p>Point DeployMyClaw at your agent: code upload, ClawTool export, or any OpenAI-compatible endpoint.
+                Credentials stay in your vault, not ours.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h4>Deploy</h4>
+              <p>One click. You get a live endpoint with auth, a monitoring page and a version tag. First request
+                usually lands within a minute.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h4>Watch it run</h4>
+              <p>Latency, errors and spend stream into the dashboard. Set a spend cap, an alert, and a rollback target —
+                then go back to building.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" id="pricing" aria-labelledby="price-title">
+      <div class="container">
+        <h2 id="price-title">Pay for runs, not for the platform</h2>
+        <p class="section-lead">The platform fee is flat. Usage is metered and capped by you.</p>
+        <div class="price-grid">
+          <article class="price-card">
+            <h3>Hobby</h3>
+            <div class="price">€0</div>
+            <ul>
+              <li>1 agent, 1k runs/mo</li>
+              <li>REST + email endpoints</li>
+              <li>7-day monitoring history</li>
+              <li>Community support</li>
+            </ul>
+            <a class="btn btn-ghost" href="contact.html">Start free</a>
+          </article>
+          <article class="price-card featured">
+            <h3>Pro</h3>
+            <div class="price">€29<small>/mo</small></div>
+            <ul>
+              <li>5 agents, 20k runs/mo</li>
+              <li>All endpoints incl. WhatsApp &amp; Slack</li>
+              <li>90-day monitoring, alerts</li>
+              <li>Versioning, A/B, rollback</li>
+              <li>Spend caps &amp; model fallback</li>
+            </ul>
+            <a class="btn" href="contact.html">Go Pro</a>
+          </article>
+          <article class="price-card">
+            <h3>Scale</h3>
+            <div class="price">€99<small>/mo</small></div>
+            <ul>
+              <li>Unlimited agents, 100k runs/mo</li>
+              <li>Team seats &amp; SSO</li>
+              <li>99.9% SLA, priority support</li>
+              <li>Custom spend governance</li>
+            </ul>
+            <a class="btn btn-ghost" href="contact.html">Talk to us</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="faq-title">
+      <div class="container">
+        <h2 id="faq-title">FAQ</h2>
+        <div class="faq" style="margin-top:36px;">
+          <details>
+            <summary>What counts as a "run"?</summary>
+            <p>One run is one request to your agent that returns a response. Streaming, retries and internal model calls
+              don't multiply your count — you pay for what your users get.</p>
+          </details>
+          <details>
+            <summary>Who hosts the model?</summary>
+            <p>You bring the model (any OpenAI-compatible endpoint or your own). DeployMyClaw hosts the agent runtime —
+              the thing that takes requests, calls your model, and answers. Model spend stays on your provider bill
+              unless you connect it through us.</p>
+          </details>
+          <details>
+            <summary>Where does my data live?</summary>
+            <p>In EU data centers, isolated per tenant. Request/response logs follow your retention setting (7/90 days
+              or off). We never use your payloads for training.</p>
+          </details>
+          <details>
+            <summary>Can I move away later?</summary>
+            <p>Yes. Your agent code and config export at any time, and endpoints follow the OpenAI-compatible shape so
+              swapping the host is a base-URL change.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="cta-title">
+      <div class="container" style="text-align:center;">
+        <div class="quote">
+          <p>« The demo is the easy part. The hard part is 40,000 requests a day, and an invoice that explains itself.
+            That's the job we took. »</p>
+          <footer>DeployMyClaw — founding note</footer>
+        </div>
+        <h2 id="cta-title" style="margin-top:44px;">Deploy your first agent free</h2>
+        <p class="section-lead">1 agent, 1k runs a month, no card.</p>
+        <div class="hero-cta" style="justify-content:center; margin-top:26px;">
+          <a class="btn" href="#pricing">Start free</a>
+          <a class="btn btn-ghost" href="mailto:hello@deploymyclaw.ai">hello@deploymyclaw.ai</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <p class="footer-brand">DeployMyClaw</p>
+        <p class="footer-tag">agent → prod, one click.</p>
+      </div>
+      <nav aria-label="Footer">
+        <a href="./">Home</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="../fr/">Français</a>
+      </nav>
+      <p class="footer-copy">© <span data-year>2026</span> DeployMyClaw. All rights reserved. · <a
+          href="mailto:hello@deploymyclaw.ai">hello@deploymyclaw.ai</a></p>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Cookie consent">
+    <p>This site uses Google Analytics (anonymized IP) only if you accept. <a href="privacy.html">Privacy policy</a>.
+    </p>
+    <div class="row">
+      <button class="btn" type="button" data-consent="accepted">Accept</button>
+      <button class="btn btn-decline" type="button" data-consent="declined">Decline</button>
+    </div>
+  </div>
+
+  <script src="../js/main.js"></script>
+</body>
+
+</html>

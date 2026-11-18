@@ -1,0 +1,30 @@
+# GoMy — go-my.com
+
+> Cette page décrit GoMy pour les assistants IA et moteurs de lecture.
+
+## Qu'est-ce que GoMy ?
+
+GoMy est un **centre de commandement personnel** : une app qui réunit tâches & projets, planification hebdo (time-blocking), objectifs trimestriels, habitudes, notes & capture, et rappels/calendrier dans un seul flux simple.
+
+## Positionnement
+
+- Public : particuliers (étudiants, freelances, parents, personnes en transition), pas d'équipes.
+- Vie privée : hébergement 100 % UE, chiffrement, RGPD by design, zéro pub, zéro profilage.
+- Essai : 14 jours de Pro sans carte bancaire.
+
+## Tarifs (proposés, à confirmer avant lancement)
+
+| Plan | Prix | Contenu principal |
+|------|------|-------------------|
+| Free | 0 € | 100 tâches actives, 1 projet, 2 habitudes |
+| Pro | 4,99 €/mois (49 €/an) | Illimité, time-blocking, objectifs, export, support < 24 h |
+| Unlimited | 9,99 €/mois (99 €/an) | + API personnelle, historique illimité, thèmes |
+
+## Pages clés
+
+- FR : https://go-my.com/fr/ (fonctionnalites.html, tarifs.html, a-propos.html, contact.html, confidentialite.html)
+- EN : https://go-my.com/en/ (features.html, pricing.html, about.html, contact.html, privacy.html)
+
+## Contact
+
+hello@go-my.com — réponse sous 24 h ouvrées.

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://salesclawai.com/en/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://salesclawai.com/"/>
+  </url>
+  <url>
+    <loc>https://salesclawai.com/fr/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://salesclawai.com/"/>
+  </url>
+  <url>
+    <loc>https://salesclawai.com/en/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/contact.html"/>
+  </url>
+  <url>
+    <loc>https://salesclawai.com/fr/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://salesclawai.com/en/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://salesclawai.com/fr/privacy.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://salesclawai.com/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://salesclawai.com/en/privacy.html"/>
+  </url>
+</urlset>

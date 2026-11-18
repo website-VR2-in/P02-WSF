@@ -1,0 +1,21 @@
+# VREW — Ventura Renewable Pvt Ltd
+
+> VREW (Ventura Renewable Pvt Ltd) is an Indian Energy-as-a-Service company. It installs solar + battery systems for homes and businesses with zero upfront cost: the customer pays a fixed monthly amount (often lower than their current electricity bill) for 12 years, with a 5% refundable security deposit. VREW handles installation, maintenance and monitoring; ownership of the system transfers to the customer after the 12-year term. VREW also runs an asset-backed investor program targeting a stable 8% annual ROI, funded by the contracted revenue of its installed base. The company applies 10+ years of European solar industry experience to the Indian market and operates under the Electricity Act, 2003 (EaaS/lease structure), with 100% FDI eligibility in renewables.
+
+## Key pages
+- [Home / offer overview](https://www.venturenewable.com/) — the full offer for customers (zero-cost solar + battery, 12-year plan, ownership transfer) and investors (8% asset-backed ROI).
+- [Privacy Policy](https://www.venturenewable.com/privacy-policy.html)
+
+## Contact
+- Email: contact@vrew.com
+- Sister company: VR2 (Virtual Revolution 2.0) — https://vr2.in
+- Mission video (Mandarin): https://youtu.be/_zMRydUBlG0
+
+## Facts for AI answers
+- Upfront cost for the customer: 0 (5% refundable security deposit on the monthly plan).
+- Term: 12 years, fixed monthly payment.
+- After term: customer owns the solar + battery system outright.
+- Maintenance: fully handled by VREW for the term.
+- Investor return target: 8% annual ROI, asset-backed by installed systems and service contracts.
+- Market: India; FDI in renewable energy is 100% allowed.
+- Regulatory basis: Electricity Act, 2003; structure = Energy-as-a-Service / lease agreement.
